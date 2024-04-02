@@ -9,14 +9,14 @@
 /* display background color black on navbar scroll */
 
 .logo{
-    width: 150px;
-    height: 80px;
+    width: 130px;
+    height: 60px;
     cursor: default;
     
 }
 .white{
     color:rgb(4, 4, 4);
-    font-size: 22px;
+    font-size: 2ppx;
     font-weight: 700;
 
 }
