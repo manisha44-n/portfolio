@@ -11,14 +11,14 @@
     background-color: rgb(5, 4, 5);
 }
 .logo{
-    width: 100px;
+    width: 80px;
     height: 40px;
     cursor: default;
     
 }
 .white{
     color:rgb(4, 4, 4);
-    font-size: 22px;
+    font-size: 20px;
 }
 .white:hover{
     color:white;
