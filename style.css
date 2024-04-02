@@ -11,22 +11,20 @@
     background-color: rgb(5, 4, 5);
 }
 .logo{
-<<<<<<< HEAD
+
     width: 100px;
-=======
+
     width: 80px;
->>>>>>> 475aa926473dde93b82edff6b1ba68927d51d26b
     height: 40px;
     cursor: default;
     
 }
 .white{
     color:rgb(4, 4, 4);
-<<<<<<< HEAD
+
     font-size: 22px;
-=======
     font-size: 20px;
->>>>>>> 475aa926473dde93b82edff6b1ba68927d51d26b
+
 }
 .white:hover{
     color:white;
