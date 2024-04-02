@@ -28,12 +28,12 @@
     
 }
 /* hero background image */
-.bgimage{
+/* .bgimage{
     height: 100vh;
     background-image: url('images/img15.jpg');
     background-size:cover ;
     position: relative;
-}
+} */
 /* test css above hero image*/
 .hero_title{
     font-size: 4.5rem;
