@@ -3,25 +3,29 @@
     padding:0;
 }
 .dark{
-    background-color:rgb(192, 191, 192)
+    background-color:white;
     
 }
 /* display background color black on navbar scroll */
 .navbarScroll.navbarDark{
-    background-color: rgb(155, 20, 155);
+    background-color: rgb(5, 4, 5);
 }
 .logo{
-    width: 80px;
-    height: 30px;
+    width: 140px;
+    height: 70px;
     cursor: default;
     
 }
 .white{
-    color:rgb(235, 13, 61);
-    font-size: 20px;
+    color:rgb(4, 4, 4);
+    font-size: 24px;
 }
 .white:hover{
-    color: rgb(160, 20, 20);
+    color:white;
+    background-color: black;
+    border-radius: 5px;
+    transition-delay: 0.1;
+    
 }
 /* hero background image */
 .bgimage{
